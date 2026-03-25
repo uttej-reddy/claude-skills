@@ -1,0 +1,31 @@
+# Secrets & personal data
+skills/job-data/
+skills/leetcode-solver/
+skills/job-apply/portals.json
+channels/
+*.env
+*.env.local
+
+# Conversation history & internal state
+projects/
+backups/
+cache/
+debug/
+file-history/
+session-env/
+sessions/
+shell-snapshots/
+statsig/
+telemetry/
+todos/
+paste-cache/
+history.jsonl
+stats-cache.json
+mcp-needs-auth-cache.json
+install-counts-cache.json
+
+# Plugins (installed on demand, not portable)
+plugins/
+
+# OS
+.DS_Store
