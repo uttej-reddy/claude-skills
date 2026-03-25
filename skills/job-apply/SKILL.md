@@ -349,6 +349,21 @@ When adding work experience, **combine all roles at same company into ONE entry*
 
 **DON'T** add separate entries for each internal role/project.
 
+### 4a. Multiple Clients at Same Consulting Company (e.g. Hindsight)
+
+Some employers are consulting firms where Uttej worked across multiple clients. The form has ONE description box for the whole employer — paste ALL clients into it in order, formatted exactly as they appear in the resume:
+
+```
+Client: [Client Name]  -  [Location]  [Date Range]
+• [bullet]
+• [bullet]
+
+Client: [Client Name]  -  [Location]  [Date Range]
+• [bullet]
+```
+
+Read the resume to get all clients and their bullets. Do NOT only use the first client.
+
 ### 5. ALL Work History Required
 
 Many applications want **complete work history**, not just current job:
