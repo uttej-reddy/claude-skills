@@ -1,4 +1,4 @@
-# claude-config
+# claude-skills
 
 My personal Claude Code configuration — global instructions, MCP servers, plugins, and custom skills.
 
@@ -13,7 +13,7 @@ My personal Claude Code configuration — global instructions, MCP servers, plug
     ├── cover-letter/   # Generate tailored cover letters
     ├── job-apply/      # Browser-automated job applications
     ├── job-roles/      # Discover and search job roles
-    ├── job-tracker/    # Manage application pipeline (Google Drive)
+    ├── job-tracker/    # Manage application pipeline (GoogleDrive/One Drive)
     ├── linkedin-referral-search/  # Find referrers at target companies
     └── referral-ask/   # Generate referral request messages
 ```
